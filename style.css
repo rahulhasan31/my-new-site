@@ -1,0 +1,193 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.section-fix {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+h1 {
+
+    text-align: center;
+}
+
+.font-s {
+    color: orangered;
+}
+
+.my {
+    text-align: center;
+}
+
+.our-web-site {
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.image {
+    width: 70%;
+    padding-left: 5%;
+}
+
+.img {
+    width: 50%;
+
+    padding-left: 10%;
+
+}
+
+.new-site {
+    width: 50%;
+    padding: 6%;
+    padding-left: 5%;
+}
+
+
+
+
+.font {
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 50px;
+    font-weight: 70;
+    color: white;
+    padding: 10px 40px;
+    width: 5%;
+
+
+}
+
+#button {
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 50px;
+    font-weight: 70;
+    color: white;
+    padding: 10px 40px;
+    width: 5%;
+
+}
+
+.my-recipies p {
+    width: 50%;
+    padding-left: 40%;
+    text-align: center;
+
+}
+
+.my-recipies h1 {
+    width: 50%;
+    padding-left: 40%;
+    text-align: center;
+
+}
+
+.frecipie {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+
+.recipie img {
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 10%;
+
+
+}
+
+.recipie p {
+    text-align: justify;
+}
+
+.recipie-title {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 10px;
+    padding-left: 25px;
+    border-radius: 20px;
+
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+.recipie-title img {
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-left: 3%;
+
+}
+
+.recipie-title h2 {
+    padding-left: 10%;
+}
+
+.recipie-title p {
+    padding-left: 10%;
+
+}
+
+.youtube {
+    display: flex;
+    padding-left: 10px;
+    margin-left: 10%;
+    margin-right: 20px;
+    width: 80%;
+    text-align: center;
+    box-shadow: 10px 10px 40px grey;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+
+
+
+
+}
+
+.youtube p {
+    text-align: center;
+    margin-left: 200px;
+    padding-right: 5%;
+}
+
+
+
+.youtube h1 {
+    margin-left: 200px;
+    padding-right: 5%;
+}
+
+.eat {
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 1800px;
+    padding-top: 2%;
+}
+
+.eat p {
+    text-align: center;
+    padding-right: 200px;
+}
+
+.eat h1 {
+    padding-right: 200px;
+}
